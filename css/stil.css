@@ -1,0 +1,215 @@
+
+
+  
+
+
+
+
+#title {
+    background-color: #1B1B1B;
+    color: white;
+    text-align: left;
+}
+
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+body {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+ }
+
+ /*Navigation bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+
+ .navbar-brand {
+    font-family: 'Playfair Display', serif;
+     font-size: 3rem;
+     font-weight: bold;
+ }
+
+ .nav-item {
+     padding: 0 18px;
+ }
+
+ .nav-link {
+     font-size: 0.8rem;
+     font-family: 'Playfair Display', serif;
+ }
+
+ /*Download Buttons*/
+
+ .download-button {
+     margin: 20% 3% 5% 0%;
+     font-size: 1rem;
+ }
+
+ /*Title Image */
+
+ .title-image {
+     width: 95%;
+     
+ }
+
+
+
+
+p {
+    color: #8f8f8f;
+}
+
+
+/*Feature Section*/
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+   
+    padding: 4.5%;
+}
+
+.icon-one{
+    color: goldenrod;
+    margin-bottom: 1rem;
+}
+
+.icon-two {
+    color: goldenrod;
+    margin-bottom: 1rem;
+}
+
+.icon-three{
+    color: goldenrod;
+    margin-bottom: 1rem;
+}
+
+.icon-two:hover {
+    color: #172861;
+}
+
+.icon-one:hover {
+    color: #266125;
+}
+
+.icon-three:hover{
+    color: #79201A;
+}
+
+.knjiga1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#book1{
+    
+    background: linear-gradient(#1B1B1B, white);
+
+    color: #1B1B1B;
+}
+
+#book2{
+    
+    background: linear-gradient(white, white);
+
+    color: #1B1B1B;
+}
+
+#book3{
+    
+    background: linear-gradient(white, #1B1B1B);
+
+    color: #1B1B1B;
+}
+
+.book11{
+    padding: 10% 3% 5% 0%;
+    font-size: 1rem;
+    color: #1B1B1B;
+   
+}
+
+.naslov{
+    padding: 5% 3% 5% 0%;
+    font-size: 2rem;
+    color: black;
+}
+
+
+
+.naslov0 {
+    padding: 20% 3% 5% 0%;
+    font-size: 1rem;
+    color: #1B1B1B;
+}
+
+
+.slika-autor{
+    padding-top: 5%;
+}
+
+.h1autor{
+    color: #1B1B1B;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.h1uvod{
+    color: #266125;
+   
+   font-size: 5rem;
+   padding-top: 10%;
+   padding-bottom: 10%;
+   background:  #1B1B1B;
+   margin-bottom: 0%;
+ 
+}
+  
+
+
+.h1uvod2{
+    color: #172861;
+ 
+   font-size: 5rem;
+   padding-top: 10%;
+   padding-bottom: 5%;
+
+  
+}
+
+.h1uvod3{
+    color: #79201A;
+ 
+   font-size: 5rem;
+   padding-top: 10%;
+   padding-bottom: 5%;
+
+  
+}
+
+.h1uvod0{
+    color: black;
+  
+   font-size: 5rem;
+   padding-top: 10%;
+   padding-bottom: 5%;
+   
+  
+}
+
